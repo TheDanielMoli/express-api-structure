@@ -1,0 +1,14 @@
+{
+  "name": "express-api-structure",
+  "version": "1.0.0",
+  "description": "Which is the optimal structure for a REST API? Do you really need to bother about HTTP methods? Do we really need PUT and DELETE?",
+  "main": "index.js",
+  "repository": "https://github.com/TheDanielMoli/express-api-structure",
+  "author": "Daniele Molinari",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "express": "^4.18.1",
+    "express-formidable": "^1.2.0"
+  }
+}
